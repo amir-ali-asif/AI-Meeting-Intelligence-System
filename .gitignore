@@ -1,7 +1,9 @@
-venv/
-__pycache__/ 
 .env
-uploads/ 
-node_modules/
 backend/.env
-frontend/.env
+venv/
+backend/venv/
+__pycache__/
+uploads/
+backend/uploads/
+node_modules/
+frontend/node_modules/
